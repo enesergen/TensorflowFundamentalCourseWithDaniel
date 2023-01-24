@@ -1,0 +1,2 @@
+# TensorflowFundamentalCourseWithDaniel
+Tensorflow beginner fundamental course with Daniel
